@@ -31,6 +31,4 @@ Rating: Classificação ESRB
 ## Características:
 
 16.715 registros
-Dados de 1980 a 2016
-Múltiplas plataformas e regiões
-Dados de 2016 podem estar incompletos
+Dados de 1980 a 2016 de múltiplas plataformas e regiões.
