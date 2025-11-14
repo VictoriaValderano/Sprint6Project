@@ -1,8 +1,8 @@
-Principais Descobertas
+# Principais Descobertas
 
 
 
-- Plataformas Líderes (2013-2016)
+## Plataformas Líderes (2013-2016)
 
 
 
@@ -18,7 +18,7 @@ X360 - Fase final do ciclo de vida
 
 
 
-- Gêneros Mais Lucrativos
+## Gêneros Mais Lucrativos
 
 
 
@@ -30,11 +30,11 @@ Sports - Base fiel de jogadores (FIFA, Madden)
 
 
 
-- Diferenças Regionais
+## Diferenças Regionais
 
 
 
-. América do Norte (NA)
+<b>. América do Norte (NA)</b>
 
 Preferência por consoles de mesa (PS4, XOne)
 
@@ -44,7 +44,7 @@ Alto consumo de jogos Mature (M)
 
 
 
-. Europa (EU)
+<b>. Europa (EU)</b>
 
 Similar à NA, com destaque para FIFA
 
@@ -54,7 +54,7 @@ Mercado de futebol muito forte
 
 
 
-. Japão (JP)
+<b>. Japão (JP)</b>
 
 Preferência por portáteis (3DS, PSV)
 
@@ -64,7 +64,7 @@ Mercado único com características distintas
 
 
 
-- Correlação Avaliações × Vendas
+## Correlação Avaliações × Vendas
 
 
 
@@ -76,11 +76,11 @@ Marketing e timing são fatores cruciais
 
 
 
-- Recomendações Estratégicas para 2017
+## Recomendações Estratégicas para 2017
 
 
 
-. Plataformas
+<b>. Plataformas</b>
 
 INVESTIR: PS4 e XOne (nova geração consolidada)
 
@@ -90,7 +90,7 @@ REDUZIR: PS3 e X360 (geração anterior)
 
 
 
-. Gêneros
+<b>. Gêneros</b>
 
 Alto investimento: Action, Shooter, Sports
 
@@ -100,7 +100,7 @@ Nicho selecionado: Puzzle, Strategy
 
 
 
-. Estratégia Regional
+<b>. Estratégia Regional</b>
 
 NA/EU: Focar em blockbusters AAA e jogos de ação
 
@@ -110,7 +110,7 @@ Global: Considerar localização adequada para cada mercado
 
 
 
-. Marketing
+<b>. Marketing</b>
 
 Investir em avaliações de críticos
 
